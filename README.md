@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm active on `/dev/null`, the social network for developers. 
+
+Here's my commit history (post history):
+
+[![/dev/null activity](https://dev-null.sh/@shane-smith/graph.svg?theme=auto)](https://dev-null.sh/@shane-smith)
+
+Say hello over at https://dev-null.sh/@shane-smith 
