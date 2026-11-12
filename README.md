@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm active on `/dev/null`, the social network for developers. 
+I'm Shane, a developer and product owner working mostly with PHP, Vue and Tailwind CSS.
 
-Here's my commit history (post history):
+We may have met at Laracon AU or another conference, and I'm also the current organiser for [PHP×ADL](https://phpxadl.com) (a PHP and Laravel meetup in Adelaide, South Australia) so come along if you're in the area!
 
-[![/dev/null activity](https://dev-null.sh/@shane-smith/graph.svg?theme=auto)](https://dev-null.sh/@shane-smith)
+Want to chat? I enjoy writing code, watching science fiction, driving on long roadtrips, and drinking good coffee. However I'd love to talk about whatever you are passionate about. You can find me on `/dev/null`, the social network for developers: [@shane-smith](https://dev-null.sh/@shane-smith)
 
-Say hello over at https://dev-null.sh/@shane-smith 
+
+Here's some things I made that you might like:
+
+#### [Doctor Who Checklist](https://shane-smith.github.io/who)
+- PWA. Local storage only. Pin it to your home screen!
+- Track your progress watching the classic and revived series of Doctor Who
+- Read trivia about the episode or story you are currently watching
+- Check the current status of classic era episodes (two were re-discovered as recently as February 2026!)
